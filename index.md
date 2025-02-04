@@ -9,4 +9,4 @@ within school network and with goguardian and still be able to bypass.
 
 Click a game below to start playing, or browse one of our pages.
 
-[Cookie Clicker](games/cookie-clicker)
+[Cookie Clicker](pages/cookie-clicker)
